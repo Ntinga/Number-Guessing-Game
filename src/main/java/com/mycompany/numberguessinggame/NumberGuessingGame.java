@@ -3,8 +3,7 @@
  */
 
 package com.mycompany.numberguessinggame;
-import java.util.Scanner;
-import java.util.Random;
+import java.util.*;
 /**
  *
  * @author lab_services_student
@@ -50,12 +49,6 @@ public class NumberGuessingGame {
                 System.out.println("Congratulations! "
                         + "You have guessed the number in " + numberOfTries + " tries");
             }
-        }
-        
-        
-        
-        
-        
-        
+        }   
     }
 }
